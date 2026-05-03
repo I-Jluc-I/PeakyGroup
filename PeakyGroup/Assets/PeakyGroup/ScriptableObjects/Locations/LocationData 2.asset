@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5694380e7fdb7124687a1199a5911c04, type: 3}
+  m_Name: LocationData 2
+  m_EditorClassIdentifier: Assembly-CSharp::SelectionSystem.Location.LocationData
+  id: Scene_03
+  displayName: Scene_03
+  description: Scene_033
+  previewImage: {fileID: 21300000, guid: dee7559115177464f9c6649121398fb7, type: 3}
+  sceneId: Scene_03

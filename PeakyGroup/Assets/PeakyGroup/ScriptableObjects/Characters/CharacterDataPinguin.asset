@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df63f92f77eddc443ab082849e96f090, type: 3}
+  m_Name: CharacterDataPinguin
+  m_EditorClassIdentifier: Assembly-CSharp::SelectionSystem.Character.CharacterData
+  id: Pinguin_001
+  displayName: Pinguin
+  level: 15
+  avatar: {fileID: 21300000, guid: dee7559115177464f9c6649121398fb7, type: 3}
+  model3DPrefab: {fileID: 1527881004230699645, guid: 66f01a8db88f9644baed659d1f91cdca, type: 3}

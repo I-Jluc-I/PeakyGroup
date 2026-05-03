@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df63f92f77eddc443ab082849e96f090, type: 3}
+  m_Name: CharacterDataKitty
+  m_EditorClassIdentifier: Assembly-CSharp::SelectionSystem.Character.CharacterData
+  id: Kitty_001
+  displayName: Kitty
+  level: 9
+  avatar: {fileID: 21300000, guid: 6e308206bd9016f448bc5320f6cbf304, type: 3}
+  model3DPrefab: {fileID: 6397291155531275063, guid: 44a0de0f766c9634eb66f1d56b7edc9d, type: 3}
